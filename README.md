@@ -1,2 +1,2 @@
 # FileDBMS
-Database using file management in Cpp
+Database using file management in CPP
